@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9c270628.chunk.css",
+    "main.js": "/portfolio/static/js/main.a170881d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a170881d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/css/2.9f99e50b.chunk.css": "/portfolio/static/css/2.9f99e50b.chunk.css",
+    "static/js/2.c59e2476.chunk.js": "/portfolio/static/js/2.c59e2476.chunk.js",
+    "static/js/2.c59e2476.chunk.js.map": "/portfolio/static/js/2.c59e2476.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.528fabe7c7f4855276596fbd4c88d5cf.js": "/portfolio/precache-manifest.528fabe7c7f4855276596fbd4c88d5cf.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.9f99e50b.chunk.css.map": "/portfolio/static/css/2.9f99e50b.chunk.css.map",
+    "static/css/main.9c270628.chunk.css.map": "/portfolio/static/css/main.9c270628.chunk.css.map",
+    "static/js/2.c59e2476.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c59e2476.chunk.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.4844c7bf.worker.js": "/portfolio/static/js/pdf.worker.entry.4844c7bf.worker.js",
+    "static/js/pdf.worker.entry.4844c7bf.worker.js.LICENSE.txt": "/portfolio/static/js/pdf.worker.entry.4844c7bf.worker.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.4844c7bf.worker.js.map": "/portfolio/static/js/pdf.worker.entry.4844c7bf.worker.js.map",
+    "static/media/continente.jpg": "/portfolio/static/media/continente.58b2704e.jpg",
+    "static/media/digitalworks.png": "/portfolio/static/media/digitalworks.0487be80.png",
+    "static/media/earth-2.jpg": "/portfolio/static/media/earth-2.23e23ef2.jpg",
+    "static/media/eventphotography.png": "/portfolio/static/media/eventphotography.653d0179.png",
+    "static/media/font-awesome.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/goma.png": "/portfolio/static/media/goma.c1834baa.png",
+    "static/media/ionicons.css": "/portfolio/static/media/ionicons.621bd386.svg",
+    "static/media/ipb.png": "/portfolio/static/media/ipb.20e64aec.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.3d3484b6.png",
+    "static/media/udemy.png": "/portfolio/static/media/udemy.06c70ab0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/css/2.9f99e50b.chunk.css",
+    "static/js/2.c59e2476.chunk.js",
+    "static/css/main.9c270628.chunk.css",
+    "static/js/main.a170881d.chunk.js"
+  ]
+}
