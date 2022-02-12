@@ -27,12 +27,12 @@ class Intro extends React.Component {
                       alt="logo"
                     />
                   </a>
-                  <h1 className="intro-title mb-4">Rodrigo Fernandes</h1>
+                  <h1 className="intro-title mb-4">Angelo Bennett</h1>
                   <p className="intro-subtitle">
                     <span className="text-slider-items"></span>
                     <strong className="text-slider">
                       <Typed
-                        strings={["Mobile Developer", "Full Stack Developer"]}
+                        strings={["Software Engineer", "Cybersecurity Engineer"]}
                         typeSpeed={80}
                         backDelay={1100}
                         backSpeed={30}
@@ -47,8 +47,8 @@ class Intro extends React.Component {
                       role="button"
                     >
                       {language == "EN"
-                        ? "Check My Work"
-                        : "Ver o Meu Trabalho"}
+                        ? "Personal Projects"
+                        : "Ver os meus Projetos"}
                     </a>{" "}
                     Or
                     {"   "}

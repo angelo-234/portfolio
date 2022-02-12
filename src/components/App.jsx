@@ -7,7 +7,7 @@ import Portfolio from "./portfolio.jsx";
 import Contact from "./contact.jsx";
 import BackToTop from "./back-top.jsx";
 import Preloader from "./preloader";
-import ProfessionalPath from "./professional_path";
+//import ProfessionalPath from "./professional_path";
 import AcademicPath from "./academic_path";
 import SkillSet from "./skillset";
 import CV from "./cv";

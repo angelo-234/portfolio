@@ -79,19 +79,19 @@ function AcedemicPath(props) {
                               component="h1"
                             >
                               {language == "EN"
-                                ? "Degree in Computer Engineering"
-                                : "Licenciatura em Engenharia Informática"}
+                                ? "Masters Degree in Computer Engineering"
+                                : "Mestrado Integrado em Engenharia Informática"}
                             </Typography>
                             <Typography>
                               {language == "EN"
-                                ? "Computer Engineering Degree from Instituto Politécnico de Beja, at Escola de Tecnologia E Gestão."
-                                : "Licenciatura em Engenharia Informática no Instituto Politécnico de Beja na Escola de Tecnologia E Gestão"}
+                                ? "Masters Degree in Computer Engineering from FCT NOVA, Faculty of Sciences and Technology of the NOVA University of Lisbon. Diving deeper into detail in various different areas which I began to study in the first degree."
+                                : "Mestrado Integrado em Engenharia Informática na FCT NOVA, Faculdade de Ciencias e Tecnologia da Universidade Nova de Lisboa. Com este curso tenho como objetivo entrar em ainda mais detalhe em varias areas ja aboradadas no primeiro curso."}
                             </Typography>
                           </Paper>
                           <TimelineContent>
                             <Typography variant="body2" color="textSecondary">
-                              2019 -
-                              {language == "EN" ? " Currently on hold" : " Atualmente em pausa"}
+                              2021 - 
+                              {language == "EN" ? " 2021 - Present " : " 2021 - Dia Atual "}
                             </Typography>
                           </TimelineContent>
                         </TimelineContent>
@@ -120,18 +120,18 @@ function AcedemicPath(props) {
                               component="h1"
                             >
                               {language == "EN"
-                                ? "Associate Degree - Web Technologies and Mobile Devices"
-                                : "Curso Técnico Superior Profissional - Tecnologias Web e Dispositivos Móveis"}
+                                ? "Bachelor's Degree - Computer Engineering"
+                                : "Curso de Ensino Superior - Engenheria Informatica"}
                             </Typography>
                             <Typography>
                               {language == "EN"
-                                ? "A course specially made to prepare student for the professional World from Instituto Politécnico de Beja, at Escola de Tecnologias E Gestão.. I learned how to configure servers, create and manage databases, API's development, web applications development and mobile applications development."
-                                : "Um curso feito especialmente para preparar os alunos para o mundo profissional, do Instituto Politécnico de Beja, na Escola de Tecnologias E Gestão. Aprendi a configurar servidores, criar e gerir bases de dados, desenvolvimento de API's, desenvolvimento de aplicações web e desenvolvimento de aplicações mobile."}
+                                ? "A course made to prepare it's students for all aspects of the professional tech world from the Faculty of Science and Technology of the NOVA University of Lisbon."
+                                : "Um curso feito para preparar os alunos para o mundo profissional da area da tecnologia, da Faculdade de Ciencias e Tecnologia da Universidade NOVA de Lisboa."}
                             </Typography>
                           </Paper>
                           <TimelineContent>
                             <Typography variant="body2" color="textSecondary">
-                              2017 - 2019
+                              2018 - 2021
                             </Typography>
                           </TimelineContent>
                         </TimelineContent>

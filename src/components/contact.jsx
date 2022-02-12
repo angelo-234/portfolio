@@ -27,7 +27,7 @@ class Contact extends React.Component {
                         </div>
                         <div>
                           <form
-                            action="https://formspree.io/f/mgepkwkb"
+                            action="https://formspree.io/f/xgedkezw"
                             method="POST"
                             className="contactForm"
                           >
@@ -53,7 +53,7 @@ class Contact extends React.Component {
                                     data-rule="minlen:4"
                                     data-msg={
                                       language == "EN"
-                                        ? "Please enter at least 4 chars"
+                                        ? "Please enter at least 4 characters"
                                         : "Por favor, introduza pelo menos 4 caracteres"
                                     }
                                     required
@@ -97,7 +97,7 @@ class Contact extends React.Component {
                                     data-rule="minlen:8"
                                     data-msg={
                                       language == "EN"
-                                        ? "Please enter at least 8 chars of subject"
+                                        ? "Please enter at least 8 characters for the subject"
                                         : "Por favor, introduza pelo menos 8 caracteres"
                                     }
                                     required
@@ -150,8 +150,8 @@ class Contact extends React.Component {
                         <div className="more-info">
                           <p className="lead">
                             {language == "EN"
-                              ? "Whether you want to get in touch, talk about a project collaboration, or just say hi, I'd love to hear from you. "
-                              : "Quer queira apenas contactar-me, falar sobre uma colaboração num projeto, ou apenas dizer olá, adorava ouvir o que tem para dizer."}
+                              ? "Whether you would like to contact me regarding work opportunities, a project collaboration, or would simply like to say hi, I am looking forward to hearing from you"
+                              : "Caso queira contactar-me, falar sobre uma colaboração num projeto, ou apenas dizer olá, gostaria muito de ouvir aquilo que tem para dizer!."}
 
                             <br></br>
 
@@ -162,7 +162,7 @@ class Contact extends React.Component {
                           <ul className="list-ico">
                             <li>
                               <span className="ion-email"></span>{" "}
-                              rodrigoserrafernandes98@gmail.com
+                              angelobennett12@gmail.com
                             </li>
                           </ul>
                         </div>
@@ -170,7 +170,7 @@ class Contact extends React.Component {
                           <ul>
                             <li>
                               <a
-                                href="https://github.com/rfsfernandes"
+                                href="https://github.com/angelo-234"
                                 target="_blank"
                                 rel="noopener noreferrer"
                               >

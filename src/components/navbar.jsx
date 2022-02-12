@@ -189,12 +189,12 @@ class Navbar extends React.Component {
               </li>
               <li className="nav-item">
                 <a className="nav-link js-scroll" href="#my-path">
-                  {language == "EN" ? "My Path" : "Caminho"}
+                  {language == "EN" ? "Timeline" : "Caminho"}
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link js-scroll" href="#work">
-                  {language == "EN" ? "Work" : "Trabalho"}
+                  {language == "EN" ? "Projects" : "Projetos"}
                 </a>
               </li>
               <li className="nav-item">
