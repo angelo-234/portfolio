@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d81f86ce.css",
-    "main.js": "/portfolio/static/js/main.7ad4108c.js",
+    "main.js": "/portfolio/static/js/main.f65b88b2.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.7854f07b9a0b65407c9f.png",
     "static/media/earth-2.jpg": "/portfolio/static/media/earth-2.e69bffdb0fb2d23a3448.jpg",
     "static/js/pdf.worker.entry.4a100088.worker.js": "/portfolio/static/js/pdf.worker.entry.4a100088.worker.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -11,17 +12,16 @@
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/ionicons.eot?v=2.0.0": "/portfolio/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/profile.png": "/portfolio/static/media/profile.adca52792853dfa57044.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/ipb.png": "/portfolio/static/media/ipb.24b1383d9482b40b0605.png",
     "static/media/ionicons.woff?v=2.0.0": "/portfolio/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
     "static/media/udemy.png": "/portfolio/static/media/udemy.5fc91f283b54d0dcc4af.png",
     "index.html": "/portfolio/index.html",
     "main.d81f86ce.css.map": "/portfolio/static/css/main.d81f86ce.css.map",
-    "main.7ad4108c.js.map": "/portfolio/static/js/main.7ad4108c.js.map"
+    "main.f65b88b2.js.map": "/portfolio/static/js/main.f65b88b2.js.map"
   },
   "entrypoints": [
     "static/css/main.d81f86ce.css",
-    "static/js/main.7ad4108c.js"
+    "static/js/main.f65b88b2.js"
   ]
 }
