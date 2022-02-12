@@ -91,7 +91,7 @@ function AcedemicPath(props) {
                           <TimelineContent>
                             <Typography variant="body2" color="textSecondary">
                               2021 - 
-                              {language == "EN" ? " 2021 - Present " : " 2021 - Dia Atual "}
+                              {language == "EN" ? " Present Day" : " Dia Atual"}
                             </Typography>
                           </TimelineContent>
                         </TimelineContent>
