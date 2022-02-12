@@ -36,13 +36,15 @@ function App() {
     setLanguage(newLanguage);
   }
 
+// ADD PROFESSIONAL PATH BACK EVENTUALLY
+
   return (
     <div style={{position: "relative"}}>
       <BackToTop />
       <Navbar callback={languageChange} language={language} />
       <Intro language={language} />
       <About language={language} />
-      <ProfessionalPath language={language} />
+      
       <AcademicPath language={language} />
       <OnlineCourses language={language} />
       <Portfolio language={language} />
