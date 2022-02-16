@@ -150,8 +150,8 @@ class Contact extends React.Component {
                         <div className="more-info">
                           <p className="lead">
                             {language == "EN"
-                              ? "Whether you would like to contact me regarding work opportunities, a project collaboration, or would simply like to say hi, I am looking forward to hearing from you"
-                              : "Caso queira contactar-me, falar sobre uma colaboração num projeto, ou apenas dizer olá, gostaria muito de ouvir aquilo que tem para dizer!."}
+                              ? "Whether you would like to contact me regarding work opportunities, a project collaboration, or would simply like to say hi, I am looking forward to hearing from you!"
+                              : "Caso queira contactar-me, falar sobre uma colaboração num projeto, ou apenas dizer olá, gostaria muito de ouvir aquilo que tem para dizer!"}
 
                             <br></br>
 

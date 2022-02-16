@@ -55,30 +55,32 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Since I saw an Android phone for the first time and I really realized what an Android Application was, the bug of wanting to become a Software Developer was born, " + 
-            "with more emphasis on Mobile Devices. Nothing fascinates me more than writing a few lines of code and watching everything happen on my mobile phone.",
+            "To be able to think something up and then build it yourself, with your own hands, knowing that you came up with it, is a great feeling. " + 
+            "As a child, I used to love Lego for this very reason. When I first discovered programming, it was a similar feeling. I could have an idea for a program," +
+            "or a script, and then create it myself and watch it execute exactly as intended. Ever since then it has become something I truly enjoy and am passionate about.",
         },
         {
           id: "second-p-about",
           content:
-            "To me, a Software Developer is someone who will never be able to say that he knows everything, it is a profession in which the " + 
-            "professional must be in constant learning and must have the humility to accept mistakes and learn from them, whether from someone with more or less experience.",
+            "To me, a Software Engineer is someone who will never be able to say that he knows everything. It is an area in which you must be constantly learning and adapting" + 
+            ", and you must have the humility to accept mistakes and be able to learn from them, no matter the situation",
         },
         {
           id: "third-p-about",
           content:
-            "I am very demanding with results and very perfectionist. This also translates into my professional life.",
+            "I consider myself someone who is very goal-oriented, hardworking and a quick learner. When I have an objective I am working towards, I focus on it completely"
+            +" until it has been achieved",
         },
         {
           id: "fourth-p-about",
           content:
-            "In the development of any software there is something very important: the team. As a team member, whether you are the leader or not, it is important to help other " + 
-            "team members and ask for help when we feel trapped. We are all rowing to the same side, no one is left behind because it would make a part of the application more fragile.",
+            "In the development of any software, one fundamental aspect is always the team. As a team member, whether you are the leader or not, it is important to help your fellow " + 
+            "team members and not be afraid to ask for help when necessary. We all share a common goal, so nobody should be left behind or alone because it would not only affect them personally, but also part of the project itself",
         },
         {
           id: "five-p-about",
           content:
-            "I really like challenges. I have a very objective attitude, which leads me to solve problems quickly and effectively, focusing on what's the most important.",
+            "I enjoy challenges, and have a very objective attitude, which leads me to solve problems quickly and effectively, focusing on what is important.",
         },
       ],
       about_mePT:[
@@ -131,7 +133,7 @@ class About extends React.Component {
                         <div className="title-box-2">
                           <h5 className="title-left">
                             {language == "EN" ? "Hello, I'm " : "Olá, sou o "}
-                            <span className="about_span">Rodrigo</span>.
+                            <span className="about_span">Angelo</span>.
                           </h5>
                         </div>
                         {language == "EN"
