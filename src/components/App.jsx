@@ -37,6 +37,7 @@ function App() {
   }
 
 // ADD PROFESSIONAL PATH BACK EVENTUALLY
+// ADD ONLINE COURSES PART BACK EVENTUALLY
 
   return (
     <div style={{position: "relative"}}>
@@ -46,7 +47,7 @@ function App() {
       <About language={language} />
       
       <AcademicPath language={language} />
-      <OnlineCourses language={language} />
+      
       <Portfolio language={language} />
       <CV language={language} />
       <SkillSet language={language} />
