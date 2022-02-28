@@ -5,12 +5,7 @@ class SkillSet extends React.Component {
     super();
     this.state = {
       skills: [
-        {
-          id: "Android_skill",
-          content: "Android",
-          porcentage: "85%",
-          value: "85",
-        },
+        
         {
           id: "Java_skill",
           content: "Java",
@@ -18,67 +13,34 @@ class SkillSet extends React.Component {
           value: "85",
         },
         {
-          id: "Kotlin_skill",
-          content: "Kotlin",
-          porcentage: "80%",
-          value: "80",
-        },
-        {
-          id: "Flutter_skill",
-          content: "Flutter",
+          id: "Python_skill",
+          content: "Python",
           porcentage: "75%",
           value: "75",
         },
         {
-          id: "Dart_skill",
-          content: "Dart",
+          id: "C_skill",
+          content: "C++",
+          porcentage: "75%",
+          value: "75",
+        },
+        {
+          id: "Sql_skill",
+          content: "SQL",
           porcentage: "70%",
           value: "70",
         },
-        {
-          id: "Csharp_skill",
-          content: "C#",
-          porcentage: "60%",
-          value: "60",
+        { 
+          id: "HTML5_skill", 
+          content: "HTML5", 
+          porcentage: "65%", 
+          value: "65"
         },
-        {
-          id: "Unity3D_skill",
-          content: "Unity3D",
-          porcentage: "50%",
-          value: "50",
-        },
-        { id: "HTML5_skill", content: "HTML5", porcentage: "75%", value: "75" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "70%", value: "70" },
-        { id: "PHP_skill", content: "PHP", porcentage: "65%", value: "65" },
         {
           id: "Javascript_skill",
           content: "Javascript",
           porcentage: "65%",
           value: "65",
-        },
-        {
-          id: "ReactJS_skill",
-          content: "ReactJS",
-          porcentage: "60%",
-          value: "60",
-        },
-        {
-          id: "Sql_skill",
-          content: "SQL",
-          porcentage: "60%",
-          value: "60",
-        },
-        {
-          id: "MongoDB_skill",
-          content: "MongoDB",
-          porcentage: "60%",
-          value: "60",
-        },
-        {
-          id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "45%",
-          value: "45",
         },
       ],
     };
