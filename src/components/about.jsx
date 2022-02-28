@@ -6,29 +6,20 @@ class About extends React.Component {
     this.state = {
       skills: [
         {
-          id: "Android_skill",
-          content: "Android",
-          porcentage: "95%",
-          value: "95",
-        },
-        {
           id: "Java_skill",
           content: "Java",
-          porcentage: "95%",
-          value: "95",
-        },
-        { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
-        {
-          id: "Javascript_skill",
-          content: "Javascript",
-          porcentage: "73%",
-          value: "73",
+          porcentage: "85%",
+          value: "85",
         },
         {
-          id: "ReactJS_skill",
-          content: "ReactJS",
+          id: "Python_skill",
+          content: "Python",
+          porcentage: "75%",
+          value: "75",
+        },
+        {
+          id: "C_skill",
+          content: "C++",
           porcentage: "75%",
           value: "75",
         },
@@ -38,17 +29,17 @@ class About extends React.Component {
           porcentage: "70%",
           value: "70",
         },
-        {
-          id: "MongoDB_skill",
-          content: "MongoDB",
-          porcentage: "60%",
-          value: "60",
+        { 
+          id: "HTML5_skill", 
+          content: "HTML5", 
+          porcentage: "65%", 
+          value: "65"
         },
         {
-          id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "60%",
-          value: "60",
+          id: "Javascript_skill",
+          content: "Javascript",
+          porcentage: "65%",
+          value: "65",
         },
       ],
       about_meEN: [
@@ -63,56 +54,57 @@ class About extends React.Component {
           id: "second-p-about",
           content:
             "To me, a Software Engineer is someone who will never be able to say that he knows everything. It is an area in which you must be constantly learning and adapting" + 
-            ", and you must have the humility to accept mistakes and be able to learn from them, no matter the situation",
+            ", and you must have the humility to accept mistakes and be able to learn from them, no matter the situation.",
         },
         {
           id: "third-p-about",
           content:
-            "I consider myself someone who is very goal-oriented, hardworking and a quick learner. When I have an objective I am working towards, I focus on it completely"
-            +" until it has been achieved",
+            "I consider myself someone who is very goal-oriented, hardworking and a quick learner. I enjoy challenges, and when I have an objective I am working towards, I focus on it completely"
+            +", solving problems quickly and efficiently until it has been achieved.",
         },
         {
           id: "fourth-p-about",
           content:
             "In the development of any software, one fundamental aspect is always the team. As a team member, whether you are the leader or not, it is important to help your fellow " + 
-            "team members and not be afraid to ask for help when necessary. We all share a common goal, so nobody should be left behind or alone because it would not only affect them personally, but also part of the project itself",
+            "team members and not be afraid to ask for help when necessary. We all share a common goal when working on a project, so nobody should be left behind or left alone with a problem.",
         },
         {
           id: "five-p-about",
           content:
-            "I enjoy challenges, and have a very objective attitude, which leads me to solve problems quickly and effectively, focusing on what is important.",
+            "",
         },
       ],
       about_mePT:[
         {
           id: "first-p-about",
           content:
-            "Desde que vi pela primeira vez um telemóvel Android e que me apercebi realmente o que era uma Aplicação Android," +
-            " nasceu o bichinho de me querer tornar um Software Developer, com mais ênfase em Dispositivos Móveis. "+
-            "Nada me fascina mais do que escrever umas linhas de código e ver tudo a acontecer no telemóvel.",
+            "Ter uma ideia de algo, e depois poder tornar essa ideia uma realidade é uma sensação incrível. Quando era uma criança, eu adorava brincar com LEGO por exatamente" + 
+            " essa razao. Quando descobri programação pela primeira vez, descobri essa sensação de novo. Posso ter uma ideia para um programa, script ou projeto e depois criá-lo " +
+            "e ver funcionar exatamente como pretendido. A partir daí, programação tornou-se algo que eu aprecio muito e que me intressa verdadeiramente.",
         },
         {
           id: "second-p-about",
           content:
-            "Para mim um Software Developer é alguém que nunca poderá dizer que sabe tudo, é uma profissão em que o profissional " + 
-            "tem de estar em constante aprendizagem e tem de ter a humildade de aceitar os erros e aprender com eles, seja de alguém com mais ou menos experiência.",
+            "Para mim, um Software Engineer é alguem que nunca vai conseguir dizer que sabe tudo. É uma area na qual uma pessoa tem que estar sempre disposto a aprender, adaptar" + 
+            " e ter a humildade de aceitar os seus erros e estar sempre disposto a apdrender deles, qualquer que seja a situação.",
         },
         {
           id: "third-p-about",
           content:
-            "Sou bastante exigente com resultados e bastante perfeccionista. Isso também se traduz na minha vida profissional.",
+            "Sou uma pessoa muito orientada pelos objetivos, trabalhador e aprendo rapidamente. Gosto de desafios, e quando tenho uma meta que quero atingir, foco-me completamente"+
+            ", resolvendo problemas de uma forma rapida e eficiente, até estar completamente resolvido e satisfeito com o resultado.",
         },
         {
           id: "fourth-p-about",
           content:
-          "No desenvolvimento de qualquer software existe algo bastante importante: a equipa.  Enquanto membro da equipa, seja o líder ou não, " + 
-          "é importante ajudar os restantes membros e pedir ajuda quando nos sentimos encurralados. Estamos todos a remar para o mesmo lado, ninguém fica " + 
-          "para trás porque tornaria uma parte da aplicação mais frágil."
+          "No desenvolvimento de qualquer software, a equipa é sempre um aspeto fundamental. Enquanto membro da equipa, seja o líder ou não, " + 
+          "é importante ajudar os restantes membros e não hesitar para pedir ajuda quando nos sentimos encurralados. Estamos todos a trabalhar para um objetivo comum,"+
+          " então ninguém deve ficar sozinho com um problema ou ficar para trás sem necessidade.",
         },
         {
           id: "five-p-about",
           content:
-            "Gosto bastante de desafios, tenho uma atitude bastante objetiva, o que me leva a resolver problemas de forma rápida e eficaz, focando-me no mais importante.",
+            "",
         },
       ]
     };
