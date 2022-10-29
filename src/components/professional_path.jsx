@@ -56,44 +56,6 @@ function ProfessionalPath(props) {
                       </h5>
                     </div>
                     <Timeline align="alternate">
-                    <TimelineItem>
-                        <TimelineSeparator>
-                          <TimelineDot
-                            className={classes.customDot}
-                          ></TimelineDot>
-                          <TimelineConnector />
-                        </TimelineSeparator>
-                        <TimelineContent>
-                          <Paper elevation={3} className={classes.paper}>
-                            <div className={classes.paperImg}>
-                              <img
-                                className={classes.imgTag}
-                                src={goma}
-                                alt=""
-                                width="100px"
-                                height="100px"
-                              />
-                            </div>
-                            <Typography
-                              align="center"
-                              variant="h6"
-                              component="h1"
-                            >
-                              Lead Android Developer
-                            </Typography>
-                            <Typography>
-                              {language == "EN"
-                                ? "Android team leader. In charge of leading the development of a modular iGaming application on the Android platform, where I set priorities and distributed tasks among team members."
-                                : "Líder da equipa de Android. Encarregue de liderar o desenvolvimento de uma aplicação modular de iGaming na plataforma Android, onde defini prioridades e distribuo tarefas pelos membros da equipa"}
-                            </Typography>
-                          </Paper>
-                          <TimelineContent>
-                            <Typography variant="body2" color="textSecondary">
-                              {language == "EN" ? "August 2021 - current" : "Agosto 2021 - até ao momento"}
-                            </Typography>
-                          </TimelineContent>
-                        </TimelineContent>
-                      </TimelineItem>
                       <TimelineItem>
                         <TimelineSeparator>
                           <TimelineDot
@@ -118,62 +80,20 @@ function ProfessionalPath(props) {
                               component="h1"
                             >
                               {language == "EN"
-                                ? "Android Developer"
-                                : "Desenvolvedor Android"}
+                                ? "Junior Software Engineer"
+                                : "Engenheiro Informatico Junior"}
                             </Typography>
                             <Typography>
                               {language == "EN"
-                                ? "Android Developer in the project Santander Empresas."
-                                : "Desenvolvedor Android no projeto Santander Empresas."}
+                                ? "Junior Software Engineer for Cult of Bits Lda."
+                                : "Engenheiro Informatico Junior para a empresa Cult of Bits Lda."}
                             </Typography>
                           </Paper>
                           <TimelineContent>
                             <Typography variant="body2" color="textSecondary">
                             {language == "EN"
-                                ? "March 2021 - August 2021"
-                                : "Março 2021 - Agosto 2021"}
-                            </Typography>
-                          </TimelineContent>
-                        </TimelineContent>
-                      </TimelineItem>
-                      <TimelineItem>
-                        <TimelineSeparator>
-                          <TimelineDot
-                            className={classes.customDot}
-                          ></TimelineDot>
-                          <TimelineConnector />
-                        </TimelineSeparator>
-                        <TimelineContent>
-                          <Paper elevation={3} className={classes.paper}>
-                            <div className={classes.paperImg}>
-                              <img
-                                className={classes.imgTag}
-                                src={digitalworks}
-                                alt=""
-                                width="100px"
-                                height="100px"
-                              />
-                            </div>
-                            <Typography
-                              align="center"
-                              variant="h6"
-                              component="h1"
-                            >
-                              {language == "EN"
-                                ? "Junior Android Developer"
-                                : "Desenvolvedor Android Júnior"}
-                            </Typography>
-                            <Typography>
-                              {language == "EN"
-                                ? "I started my journey here. I did two internships and later signed a contract. During these two years I was responsible for the Company's Android development."
-                                : "Comecei a minha jornada aqui. Realizei dois estágios e mais tarde assinei contrato. Durante esses dois anos fui responsável pelo desenvolvimento Android da Empresa."}
-                            </Typography>
-                          </Paper>
-                          <TimelineContent>
-                            <Typography variant="body2" color="textSecondary">
-                              {language == "EN"
-                                ? "February 2019 - March 2021"
-                                : "Fevereiro 2019 - Março 2021"}
+                                ? "November 2022 - Present"
+                                : "Novembro 2022 - Presente"}
                             </Typography>
                           </TimelineContent>
                         </TimelineContent>

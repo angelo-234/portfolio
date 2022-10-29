@@ -12,6 +12,7 @@ import AcademicPath from "./academic_path";
 import SkillSet from "./skillset";
 import CV from "./cv";
 import OnlineCourses from "./online_courses.jsx";
+import ProfessionalPath from "./professional_path.jsx";
 
 function App() {
   let decodedCookie = decodeURIComponent(document.cookie);
@@ -36,7 +37,6 @@ function App() {
     setLanguage(newLanguage);
   }
 
-// ADD PROFESSIONAL PATH BACK EVENTUALLY
 // ADD ONLINE COURSES PART BACK EVENTUALLY
 
   return (
@@ -45,7 +45,7 @@ function App() {
       <Navbar callback={languageChange} language={language} />
       <Intro language={language} />
       <About language={language} />
-      
+      <ProfessionalPath language={language} />
       <AcademicPath language={language} />
       
       <Portfolio language={language} />
