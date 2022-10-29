@@ -30,7 +30,7 @@ function App() {
   function languageChange(newLanguage) {
     if (newLanguage == "EN") {
       document.cookie = "language=EN; path=/";
-    } else {
+    } else { 
       document.cookie = "language=PT; path=/";
     }
 
