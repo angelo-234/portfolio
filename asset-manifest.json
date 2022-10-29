@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d81f86ce.css",
-    "main.js": "/portfolio/static/js/main.be8140bb.js",
+    "main.js": "/portfolio/static/js/main.d3e7961a.js",
     "static/media/profile.png": "/portfolio/static/media/profile.7854f07b9a0b65407c9f.png",
     "static/media/earth-2.jpg": "/portfolio/static/media/earth-2.e69bffdb0fb2d23a3448.jpg",
     "static/js/pdf.worker.entry.4a100088.worker.js": "/portfolio/static/js/pdf.worker.entry.4a100088.worker.js",
     "static/media/ipb.png": "/portfolio/static/media/ipb.eeafafa5deb6e7755276.png",
+    "static/media/goma.png": "/portfolio/static/media/goma.2f279aea1d54cade583f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
     "static/media/ionicons.svg?v=2.0.0": "/portfolio/static/media/ionicons.ee5b17dfd3f2d12ff4e2.svg",
     "static/media/ionicons.ttf?v=2.0.0": "/portfolio/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
@@ -15,13 +16,14 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/ionicons.woff?v=2.0.0": "/portfolio/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/digitalworks.png": "/portfolio/static/media/digitalworks.f6e15c5b85ac337eb99e.png",
     "static/media/udemy.png": "/portfolio/static/media/udemy.5fc91f283b54d0dcc4af.png",
     "index.html": "/portfolio/index.html",
     "main.d81f86ce.css.map": "/portfolio/static/css/main.d81f86ce.css.map",
-    "main.be8140bb.js.map": "/portfolio/static/js/main.be8140bb.js.map"
+    "main.d3e7961a.js.map": "/portfolio/static/js/main.d3e7961a.js.map"
   },
   "entrypoints": [
     "static/css/main.d81f86ce.css",
-    "static/js/main.be8140bb.js"
+    "static/js/main.d3e7961a.js"
   ]
 }
