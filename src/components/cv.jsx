@@ -5,7 +5,7 @@ import Pagination from "@material-ui/lab/Pagination";
 import Slide from "@material-ui/core/Slide";
 
 function CV(props) {
-  const pdf = process.env.PUBLIC_URL + "/pdf/cv.pdf";
+  const pdf = process.env.PUBLIC_URL + "/pdf/cvAngelo.pdf";
   const { language } = props;
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
